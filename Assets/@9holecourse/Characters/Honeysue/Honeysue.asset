@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 07dc3192418f6124f80c643d746fc584, type: 3}
+  m_Name: Honeysue
+  m_EditorClassIdentifier: 
+  avatarId: 1
+  avatarIcon: {fileID: 21300000, guid: 9a972bc277d2c6c4080c174d7b81efac, type: 3}
+  name: Honey-sue
+  description: Medium long drives, very straight and consistent, pretty good at putting,
+    but has trouble with wind calculations.
+  stats:
+    luck: 50
+    power: 60
+    accuracy: 85
+    drives: 80
+    putts: 90
+    winds: 40
+  gameplayPrefab: {fileID: 7950272862664798883, guid: add3ae424b322e948921cd12d8b6852b, type: 3}
+  statValues:
+    luck: 0.15
+    inaccuracy: 0
+    drives: 1
+    inaccPutts: 0.01
+    inaccWinds: 0.2

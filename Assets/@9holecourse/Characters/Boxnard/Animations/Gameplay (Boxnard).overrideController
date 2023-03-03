@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Gameplay (Boxnard)
+  m_Controller: {fileID: 9100000, guid: 0e2b0e2aa2f794e5c8cb676911b5b1b1, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7177877641874663602, guid: fa9a4c6a54d01490791c8e8a1bc6b543, type: 3}
+    m_OverrideClip: {fileID: 1827226128182048838, guid: d5d0bc3026272b64a90dceb649cf3b38, type: 3}
+  - m_OriginalClip: {fileID: 1412764214202373362, guid: fa9a4c6a54d01490791c8e8a1bc6b543, type: 3}
+    m_OverrideClip: {fileID: 3316786127858398870, guid: d5d0bc3026272b64a90dceb649cf3b38, type: 3}
+  - m_OriginalClip: {fileID: 1827226128182048838, guid: ea28a4c5dc0714be2ad8a01bbf3d7de6, type: 3}
+    m_OverrideClip: {fileID: 1827226128182048838, guid: d369dc23a80e5774aa36f20e7b96fc7a, type: 3}
+  - m_OriginalClip: {fileID: 1827226128182048838, guid: 5d5cff71c41d99344be13324a324eee6, type: 3}
+    m_OverrideClip: {fileID: 1827226128182048838, guid: 5f483b7c5d0025549b3f52f9bf09bfe6, type: 3}
+  - m_OriginalClip: {fileID: 1827226128182048838, guid: bc0651bf91ba249c1b951010dcc821b7, type: 3}
+    m_OverrideClip: {fileID: 1827226128182048838, guid: 4acdb48669ef96d4eac4d9d2d2b3f00e, type: 3}
+  - m_OriginalClip: {fileID: 1827226128182048838, guid: 2fb1496dd3e155b40adb104233980262, type: 3}
+    m_OverrideClip: {fileID: 1827226128182048838, guid: 8d27c3191599d8448bdca1d501f6a79b, type: 3}
+  - m_OriginalClip: {fileID: 1827226128182048838, guid: 5d7bfe91603933c4f999c4d6621b122c, type: 3}
+    m_OverrideClip: {fileID: 1827226128182048838, guid: e93c4af0ffde5e0498cd6311c27b23a5, type: 3}
+  - m_OriginalClip: {fileID: 1827226128182048838, guid: ebaa3fa05a642ac4783ac86af6163a8f, type: 3}
+    m_OverrideClip: {fileID: 1827226128182048838, guid: 63f47c6a72ab9914aab70c990e1c130e, type: 3}

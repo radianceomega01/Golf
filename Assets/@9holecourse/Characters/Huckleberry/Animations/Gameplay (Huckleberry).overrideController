@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Gameplay (Huckleberry)
+  m_Controller: {fileID: 9100000, guid: 0e2b0e2aa2f794e5c8cb676911b5b1b1, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7177877641874663602, guid: fa9a4c6a54d01490791c8e8a1bc6b543, type: 3}
+    m_OverrideClip: {fileID: 1827226128182048838, guid: 680b4b53352d00d4c829372ead0e9dd2, type: 3}
+  - m_OriginalClip: {fileID: 1412764214202373362, guid: fa9a4c6a54d01490791c8e8a1bc6b543, type: 3}
+    m_OverrideClip: {fileID: 3316786127858398870, guid: 680b4b53352d00d4c829372ead0e9dd2, type: 3}
+  - m_OriginalClip: {fileID: 1827226128182048838, guid: ea28a4c5dc0714be2ad8a01bbf3d7de6, type: 3}
+    m_OverrideClip: {fileID: 1827226128182048838, guid: af6bd696e223c004dabdc86112ca4b5c, type: 3}
+  - m_OriginalClip: {fileID: 1827226128182048838, guid: 5d5cff71c41d99344be13324a324eee6, type: 3}
+    m_OverrideClip: {fileID: 1827226128182048838, guid: 847efe7822810ba498f20c9598484b0f, type: 3}
+  - m_OriginalClip: {fileID: 1827226128182048838, guid: bc0651bf91ba249c1b951010dcc821b7, type: 3}
+    m_OverrideClip: {fileID: 1827226128182048838, guid: 6af1ecee71c45e441aab7cd91e606a27, type: 3}
+  - m_OriginalClip: {fileID: 1827226128182048838, guid: 2fb1496dd3e155b40adb104233980262, type: 3}
+    m_OverrideClip: {fileID: 1827226128182048838, guid: 717d8d3f860c4464ea77f6264ae6e89f, type: 3}
+  - m_OriginalClip: {fileID: 1827226128182048838, guid: 5d7bfe91603933c4f999c4d6621b122c, type: 3}
+    m_OverrideClip: {fileID: 1827226128182048838, guid: 0b16cd4e11d9cae41aef00e50c19af43, type: 3}
+  - m_OriginalClip: {fileID: 1827226128182048838, guid: ebaa3fa05a642ac4783ac86af6163a8f, type: 3}
+    m_OverrideClip: {fileID: 1827226128182048838, guid: 8c7c36b7bea4d5b4c8513fc5ebaa4fe7, type: 3}

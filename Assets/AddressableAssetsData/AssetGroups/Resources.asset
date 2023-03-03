@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Resources
+  m_EditorClassIdentifier: 
+  m_GroupName: Resources
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 27dc1dc37d34b564399b9c4114a45f0c
+  m_SerializeEntries:
+  - m_GUID: 97f8bec7d1634c445bf04706c32c3c2d
+    m_Address: RoomPlayer
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - dependency
+  - m_GUID: d44aa41e03132434090e5dfa9c840b51
+    m_Address: CharacterList
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - dependency
+  - m_GUID: 0ddda3b5ac29ff04ab561b5847d099da
+    m_Address: CourseList
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - dependency
+  - m_GUID: 91fdff2ade8c74548b20766aa2409be3
+    m_Address: ClubList
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - dependency
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 2acc00536e1b44a23b2b043fde5a4279, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: f8f3c3e7da757b1429e210df9bd64029, type: 2}
+    - {fileID: 11400000, guid: 68cd4f1bd5d2ce8468282937a3c2b874, type: 2}

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 968bc89c38c2f1a4faa7e128dcab9792, type: 3}
+  m_Name: Putter
+  m_EditorClassIdentifier: 
+  type: 3
+  force:
+    upward: 0.5
+    forward: 15
+  prefab: {fileID: 1652257387069412581, guid: 2cae6895770f141ff966a2b477610327, type: 3}
+  clubIcon: {fileID: 21300000, guid: 59d2dd68933380344b07aa3523ed006a, type: 3}
+  selectedClubIcon: {fileID: 21300000, guid: 29c90cd0de1b16b4bb18ba91b0c3aa58, type: 3}

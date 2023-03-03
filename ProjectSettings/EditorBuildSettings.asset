@@ -1,0 +1,12 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Samples/Blueberry.Core/1.7.4/Blueberry.Core/Scenes/Initialize Game.unity
+    guid: fd0aa5ab588a507458968d4dfc13de6e
+  m_configObjects:
+    com.unity.addressableassets: {fileID: 11400000, guid: 57eb5096977694fa5af2b8fbc233790d, type: 2}

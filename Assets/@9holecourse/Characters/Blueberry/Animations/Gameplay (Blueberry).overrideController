@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Gameplay (Blueberry)
+  m_Controller: {fileID: 9100000, guid: 0e2b0e2aa2f794e5c8cb676911b5b1b1, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7177877641874663602, guid: fa9a4c6a54d01490791c8e8a1bc6b543, type: 3}
+    m_OverrideClip: {fileID: 1827226128182048838, guid: 2f730089dd61c1e468b21e526b0e3c65, type: 3}
+  - m_OriginalClip: {fileID: 1412764214202373362, guid: fa9a4c6a54d01490791c8e8a1bc6b543, type: 3}
+    m_OverrideClip: {fileID: 3316786127858398870, guid: 2f730089dd61c1e468b21e526b0e3c65, type: 3}
+  - m_OriginalClip: {fileID: 1827226128182048838, guid: ea28a4c5dc0714be2ad8a01bbf3d7de6, type: 3}
+    m_OverrideClip: {fileID: 1827226128182048838, guid: 6d3334d1e3e645443b3e5760317033ae, type: 3}
+  - m_OriginalClip: {fileID: 1827226128182048838, guid: 5d5cff71c41d99344be13324a324eee6, type: 3}
+    m_OverrideClip: {fileID: 1827226128182048838, guid: c19f0cfe7accc0b439e76cb9c3f9f15c, type: 3}
+  - m_OriginalClip: {fileID: 1827226128182048838, guid: bc0651bf91ba249c1b951010dcc821b7, type: 3}
+    m_OverrideClip: {fileID: 1827226128182048838, guid: 2ae43eaacedf1fb4e85457fd1bf285a3, type: 3}
+  - m_OriginalClip: {fileID: 1827226128182048838, guid: 2fb1496dd3e155b40adb104233980262, type: 3}
+    m_OverrideClip: {fileID: 1827226128182048838, guid: 306ee763d4c02674f96753e96c115e0b, type: 3}
+  - m_OriginalClip: {fileID: 1827226128182048838, guid: 5d7bfe91603933c4f999c4d6621b122c, type: 3}
+    m_OverrideClip: {fileID: 1827226128182048838, guid: c8cd3f5f88e754a4783cd9b0f3869c32, type: 3}
+  - m_OriginalClip: {fileID: 1827226128182048838, guid: ebaa3fa05a642ac4783ac86af6163a8f, type: 3}
+    m_OverrideClip: {fileID: 1827226128182048838, guid: 03dbdeee3a3a6bd4e83fe4db54b32c36, type: 3}

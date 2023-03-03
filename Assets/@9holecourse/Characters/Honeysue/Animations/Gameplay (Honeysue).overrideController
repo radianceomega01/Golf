@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Gameplay (Honeysue)
+  m_Controller: {fileID: 9100000, guid: 0e2b0e2aa2f794e5c8cb676911b5b1b1, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7177877641874663602, guid: fa9a4c6a54d01490791c8e8a1bc6b543, type: 3}
+    m_OverrideClip: {fileID: 1827226128182048838, guid: 3077f6167d03efe4d8e0cf6df10aadcb, type: 3}
+  - m_OriginalClip: {fileID: 1412764214202373362, guid: fa9a4c6a54d01490791c8e8a1bc6b543, type: 3}
+    m_OverrideClip: {fileID: 3316786127858398870, guid: 3077f6167d03efe4d8e0cf6df10aadcb, type: 3}
+  - m_OriginalClip: {fileID: 1827226128182048838, guid: ea28a4c5dc0714be2ad8a01bbf3d7de6, type: 3}
+    m_OverrideClip: {fileID: 1827226128182048838, guid: fcf553d49cb5f224d97a78ffbf58d27b, type: 3}
+  - m_OriginalClip: {fileID: 1827226128182048838, guid: 5d5cff71c41d99344be13324a324eee6, type: 3}
+    m_OverrideClip: {fileID: 1827226128182048838, guid: f73f1cec74fc1ca489b3b86dfc33694f, type: 3}
+  - m_OriginalClip: {fileID: 1827226128182048838, guid: bc0651bf91ba249c1b951010dcc821b7, type: 3}
+    m_OverrideClip: {fileID: 1827226128182048838, guid: 8b4362f3b3a41014995a096f3efc756e, type: 3}
+  - m_OriginalClip: {fileID: 1827226128182048838, guid: 2fb1496dd3e155b40adb104233980262, type: 3}
+    m_OverrideClip: {fileID: 1827226128182048838, guid: 9f041c9c36eff6e4ea510988688e745b, type: 3}
+  - m_OriginalClip: {fileID: 1827226128182048838, guid: 5d7bfe91603933c4f999c4d6621b122c, type: 3}
+    m_OverrideClip: {fileID: 1827226128182048838, guid: d159792e56bac2645a3646aa08107208, type: 3}
+  - m_OriginalClip: {fileID: 1827226128182048838, guid: ebaa3fa05a642ac4783ac86af6163a8f, type: 3}
+    m_OverrideClip: {fileID: 1827226128182048838, guid: d159792e56bac2645a3646aa08107208, type: 3}

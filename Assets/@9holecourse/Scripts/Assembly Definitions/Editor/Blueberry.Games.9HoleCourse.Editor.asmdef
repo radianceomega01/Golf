@@ -1,0 +1,18 @@
+{
+    "name": "Blueberry.Games.9HoleCourse.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:ee4433105925a80448a03fb391f1be11"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

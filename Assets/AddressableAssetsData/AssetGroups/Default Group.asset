@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 9b58594faf14049f6a1c6413ae28ec70
+  m_SerializeEntries:
+  - m_GUID: f58ac5de32592ff44b0a596b092683a7
+    m_Address: Title
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - dependency
+  - m_GUID: cb0ab3a5cb3c94f8a82ad9ede314964d
+    m_Address: States
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - dependency
+  - m_GUID: e37c43bec3eb748e4b6cb9008f4fbf74
+    m_Address: Main
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - dependency
+  - m_GUID: b2c964d83e93c4c06ba7243a6f034047
+    m_Address: Course
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - dependency
+  - m_GUID: 59b0234943f4f41b2b06bbfd01d63c29
+    m_Address: Character Selection
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - dependency
+  - m_GUID: 04291256d5fc56b408e36e1435dbca08
+    m_Address: BootStrap
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - dependency
+  - m_GUID: f3ddfd37a15e5934d8666bbd923d2506
+    m_Address: Opponent Selection
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - dependency
+  - m_GUID: 96f2976515083a548823f91b4c87f65c
+    m_Address: GameMode
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - dependency
+  - m_GUID: f2b65ea2597016a4eab1eecdbccd7014
+    m_Address: Lobby
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - dependency
+  - m_GUID: 6310dc01622538f409d18d14e69c6dec
+    m_Address: CustomRoom
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - dependency
+  - m_GUID: af568dbf864de5842b1bb24f5c3e0b5d
+    m_Address: RandomRoom
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - dependency
+  - m_GUID: 5ce615a540c4d7445ac304e49539b41b
+    m_Address: UpgradeSkills
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - dependency
+  - m_GUID: fd0aa5ab588a507458968d4dfc13de6e
+    m_Address: Initialize Game
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - dependency
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 2acc00536e1b44a23b2b043fde5a4279, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: c0bbfdacad2214a0594f8767b8ac5018, type: 2}
+    - {fileID: 11400000, guid: 15f734eb2993e42cd8e2461608f75e26, type: 2}

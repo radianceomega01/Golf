@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: High res
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 1024
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 61240a8c56020a1439882be3707b0b83, type: 3}
+    - {fileID: 2800000, guid: 717fad86cee4c0d418ec08fb10d4adc8, type: 3}
+    - {fileID: 2800000, guid: 193bc5f484e405640b958dcba716da37, type: 3}
+    - {fileID: 2800000, guid: 016ef710694fce64397fd485b4dd2932, type: 3}
+    - {fileID: 2800000, guid: f51697c69e67a9e4688c3eb19bd71786, type: 3}
+    - {fileID: 2800000, guid: ee9984ba0d0d73e4fb40910d5020b156, type: 3}
+    - {fileID: 2800000, guid: 41f43487f87eb414c8e279898ff8ceec, type: 3}
+    - {fileID: 2800000, guid: e575b73bba2a8ec4d9721bff710d560c, type: 3}
+    - {fileID: 2800000, guid: 70bc92ee9c01137499a940f815ecf349, type: 3}
+    - {fileID: 2800000, guid: 55600200ab34ec44fb6aaad5652a9df4, type: 3}
+    - {fileID: 2800000, guid: 48aee65f16736b046b98adde20eb83d3, type: 3}
+    - {fileID: 2800000, guid: e03ce2b150849204aa6894951c5b867c, type: 3}
+    - {fileID: 2800000, guid: e52d78205b29c4f43b1dbdb4e3fb2404, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 55600200ab34ec44fb6aaad5652a9df4, type: 3}
+  - {fileID: -1540426309290004842, guid: 016ef710694fce64397fd485b4dd2932, type: 3}
+  - {fileID: 21300000, guid: e52d78205b29c4f43b1dbdb4e3fb2404, type: 3}
+  - {fileID: 21300000, guid: e03ce2b150849204aa6894951c5b867c, type: 3}
+  - {fileID: 21300000, guid: 193bc5f484e405640b958dcba716da37, type: 3}
+  - {fileID: 21300000, guid: 717fad86cee4c0d418ec08fb10d4adc8, type: 3}
+  - {fileID: 8389134475083476877, guid: f51697c69e67a9e4688c3eb19bd71786, type: 3}
+  - {fileID: 4349915267927364619, guid: 41f43487f87eb414c8e279898ff8ceec, type: 3}
+  - {fileID: -6270953770400647376, guid: ee9984ba0d0d73e4fb40910d5020b156, type: 3}
+  - {fileID: 21300000, guid: e575b73bba2a8ec4d9721bff710d560c, type: 3}
+  - {fileID: 21300000, guid: 61240a8c56020a1439882be3707b0b83, type: 3}
+  - {fileID: 21300000, guid: 70bc92ee9c01137499a940f815ecf349, type: 3}
+  - {fileID: 21300000, guid: 48aee65f16736b046b98adde20eb83d3, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - 8
+  - 12_0
+  - Game Mode
+  - Logo 9hole
+  - MainScreen Character
+  - YouWin
+  - 13_0
+  - 15_0
+  - 14_0
+  - 16
+  - SorryNew
+  - 9
+  - Choose Club
+  m_RenderDataMap: {}
+  m_Tag: High res
+  m_IsVariant: 0
